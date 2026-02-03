@@ -1,7 +1,7 @@
 
----
-
 # Jellyfin Catalog Dumper
+
+<img src="banner.png" align="middle">
 
 Script em Node.js para extrair metadados de bibliotecas em servidores Jellyfin, sem baixar mídia.
 
